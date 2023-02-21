@@ -78,4 +78,8 @@ def is_consecutive(a_list):
 
 # hello Brandt!
 
+
+Thanks for the help
+
 #i made it in
+
