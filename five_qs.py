@@ -1,10 +1,10 @@
 # Question 1 - Write a function to print"Hello_USERNAME
 
-def hi(un):
-    # return "Hey " + un.title() + "!"
-    print("Hey " + un.title() + "!")
-    print(f'Hey {un.title()}!')
-    return f'Hey {un.title()}!'
+def hi(username):
+    # return "Hey " + username.title() + "!"
+    print("Hey " + username.title() + "!")
+    print(f'Hey {username.title()}!')
+    return f'Hey {username.title()}!'
 print(hi('Brendan'))
    
 
