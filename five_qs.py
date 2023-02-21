@@ -77,3 +77,4 @@ def is_consecutive(a_list):
     print(status)
 
 # hello Brandt!
+# PC or Mac
