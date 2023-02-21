@@ -76,3 +76,14 @@ def is_consecutive(a_list):
             break
     print(status)
 
+
+# hello Brandt!
+
+# this took forever.
+
+Thanks for the help
+
+#i made it in
+
+
+
